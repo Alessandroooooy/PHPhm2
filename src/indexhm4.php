@@ -36,4 +36,3 @@ function find_str(array $array2) {
 echo "value: ".find_str($array2);
 
 echo PHP_EOL;
-
